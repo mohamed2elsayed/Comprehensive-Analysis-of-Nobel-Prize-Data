@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <title>Nobel Prize Dashboard Analysis</title>
-</head>
 <body>
     <h1>Nobel Prize Dashboard Analysis</h1>
     <ul>
